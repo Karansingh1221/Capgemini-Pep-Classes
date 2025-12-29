@@ -1,0 +1,15 @@
+C:\Users\Karan\Desktop\.net practice\EnterpriseSystem\obj\Debug\net10.0\EnterpriseSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Karan\Desktop\.net practice\EnterpriseSystem\obj\Debug\net10.0\EnterpriseSystem.AssemblyInfoInputs.cache
+C:\Users\Karan\Desktop\.net practice\EnterpriseSystem\obj\Debug\net10.0\EnterpriseSystem.AssemblyInfo.cs
+C:\Users\Karan\Desktop\.net practice\EnterpriseSystem\obj\Debug\net10.0\EnterpriseSystem.csproj.CoreCompileInputs.cache
+C:\Users\Karan\Desktop\.net practice\EnterpriseSystem\obj\Debug\net10.0\EnterpriseSystem.sourcelink.json
+C:\Users\Karan\Desktop\.net practice\EnterpriseSystem\bin\Debug\net10.0\EnterpriseSystem.exe
+C:\Users\Karan\Desktop\.net practice\EnterpriseSystem\bin\Debug\net10.0\EnterpriseSystem.deps.json
+C:\Users\Karan\Desktop\.net practice\EnterpriseSystem\bin\Debug\net10.0\EnterpriseSystem.runtimeconfig.json
+C:\Users\Karan\Desktop\.net practice\EnterpriseSystem\bin\Debug\net10.0\EnterpriseSystem.dll
+C:\Users\Karan\Desktop\.net practice\EnterpriseSystem\bin\Debug\net10.0\EnterpriseSystem.pdb
+C:\Users\Karan\Desktop\.net practice\EnterpriseSystem\obj\Debug\net10.0\EnterpriseSystem.dll
+C:\Users\Karan\Desktop\.net practice\EnterpriseSystem\obj\Debug\net10.0\refint\EnterpriseSystem.dll
+C:\Users\Karan\Desktop\.net practice\EnterpriseSystem\obj\Debug\net10.0\EnterpriseSystem.pdb
+C:\Users\Karan\Desktop\.net practice\EnterpriseSystem\obj\Debug\net10.0\EnterpriseSystem.genruntimeconfig.cache
+C:\Users\Karan\Desktop\.net practice\EnterpriseSystem\obj\Debug\net10.0\ref\EnterpriseSystem.dll
