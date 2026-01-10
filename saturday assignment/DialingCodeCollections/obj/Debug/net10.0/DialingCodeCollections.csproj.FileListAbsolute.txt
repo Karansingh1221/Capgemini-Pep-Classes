@@ -1,0 +1,15 @@
+C:\Users\Karan\Desktop\.net practice\DialingCodeCollections\obj\Debug\net10.0\DialingCodeCollections.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Karan\Desktop\.net practice\DialingCodeCollections\obj\Debug\net10.0\DialingCodeCollections.AssemblyInfoInputs.cache
+C:\Users\Karan\Desktop\.net practice\DialingCodeCollections\obj\Debug\net10.0\DialingCodeCollections.AssemblyInfo.cs
+C:\Users\Karan\Desktop\.net practice\DialingCodeCollections\obj\Debug\net10.0\DialingCodeCollections.csproj.CoreCompileInputs.cache
+C:\Users\Karan\Desktop\.net practice\DialingCodeCollections\obj\Debug\net10.0\DialingCodeCollections.sourcelink.json
+C:\Users\Karan\Desktop\.net practice\DialingCodeCollections\bin\Debug\net10.0\DialingCodeCollections.exe
+C:\Users\Karan\Desktop\.net practice\DialingCodeCollections\bin\Debug\net10.0\DialingCodeCollections.deps.json
+C:\Users\Karan\Desktop\.net practice\DialingCodeCollections\bin\Debug\net10.0\DialingCodeCollections.runtimeconfig.json
+C:\Users\Karan\Desktop\.net practice\DialingCodeCollections\bin\Debug\net10.0\DialingCodeCollections.dll
+C:\Users\Karan\Desktop\.net practice\DialingCodeCollections\bin\Debug\net10.0\DialingCodeCollections.pdb
+C:\Users\Karan\Desktop\.net practice\DialingCodeCollections\obj\Debug\net10.0\DialingCodeCollections.dll
+C:\Users\Karan\Desktop\.net practice\DialingCodeCollections\obj\Debug\net10.0\refint\DialingCodeCollections.dll
+C:\Users\Karan\Desktop\.net practice\DialingCodeCollections\obj\Debug\net10.0\DialingCodeCollections.pdb
+C:\Users\Karan\Desktop\.net practice\DialingCodeCollections\obj\Debug\net10.0\DialingCodeCollections.genruntimeconfig.cache
+C:\Users\Karan\Desktop\.net practice\DialingCodeCollections\obj\Debug\net10.0\ref\DialingCodeCollections.dll
